@@ -26,3 +26,8 @@ Thumbs.db
 *.log
 *.ini
 *.env
+input.mp4
+output_step1/
+output_step2/
+output_step3/
+output_step4/
