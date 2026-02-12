@@ -1,0 +1,28 @@
+# 忽略 Python 虚拟环境（覆盖常见命名）
+venv/
+env/
+.env/
+.venv/
+ENV/
+env.local/
+env/
+cosyvoice_local/
+
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+*.tmp
+
+# 日志/配置（可选，根据你的项目调整）
+*.log
+*.ini
+*.env
