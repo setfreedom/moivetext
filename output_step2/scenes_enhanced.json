@@ -1,0 +1,1064 @@
+[
+  {
+    "scene_id": 0,
+    "start_time": 0.0,
+    "end_time": 1.867,
+    "duration": 1.867,
+    "asr_text": "",
+    "vision_caption": "there is a man that is standing on a stage with a microphone",
+    "combined_context": "there is a man that is standing on a stage with a microphone。"
+  },
+  {
+    "scene_id": 1,
+    "start_time": 1.867,
+    "end_time": 17.867,
+    "duration": 16.0,
+    "asr_text": "来的人可是不少我看着你们我大心里我痛快我跟你们各位交流一下希望大家像我似的多说普通话",
+    "vision_caption": "there are two men standing next to each other on a stage",
+    "combined_context": "there are two men standing next to each other on a stage。来的人可是不少我看着你们我大心里我痛快我跟你们各位交流一下希望大家像我似的多说普通话。"
+  },
+  {
+    "scene_id": 2,
+    "start_time": 17.867,
+    "end_time": 19.5,
+    "duration": 1.633,
+    "asr_text": "您这是普通",
+    "vision_caption": "there are many people sitting at a long table with red tablecloths",
+    "combined_context": "there are many people sitting at a long table with red tablecloths。您这是普通。"
+  },
+  {
+    "scene_id": 3,
+    "start_time": 19.5,
+    "end_time": 50.167,
+    "duration": 30.667,
+    "asr_text": "你这不是普通话你管着吗没管您啊我乐意您说 随便你以为人都得是天津人啊哦你原地是哪里的我是北京的哦 北京的哦 你这中国话说的不错这怎么您这个我来 我来听相声来了哦 您来听相声来了许他们大伙听就许我听我们没不让您听我看见你我没这的是吗这个人我认识哦 您认识我认识我认识您认识我",
+    "vision_caption": "there are two men standing next to each other on a stage",
+    "combined_context": "there are two men standing next to each other on a stage。你这不是普通话你管着吗没管您啊我乐意您说 随便你以为人都得是天津人啊哦你原地是哪里的我是北京的哦 北京的哦 你这中国话说的不错这怎么您这个我来 我来听相声来了哦 您来听相声来了许他们大伙听就许我听我们没不让您听我看见你我没这的是吗这个人我认识哦 您认识我认识我认识您认识我。"
+  },
+  {
+    "scene_id": 4,
+    "start_time": 50.167,
+    "end_time": 60.467,
+    "duration": 10.3,
+    "asr_text": "玉琴对对对说的好啊不敢聪明啊哎呀您过奖说相声我认识不少了真的没有你这么灵的哎呀",
+    "vision_caption": "there are two men standing on a stage in front of a banner",
+    "combined_context": "there are two men standing on a stage in front of a banner。玉琴对对对说的好啊不敢聪明啊哎呀您过奖说相声我认识不少了真的没有你这么灵的哎呀。"
+  },
+  {
+    "scene_id": 5,
+    "start_time": 60.467,
+    "end_time": 63.167,
+    "duration": 2.7,
+    "asr_text": "这也没有你这么高的智床对",
+    "vision_caption": "there are two men standing next to each other in front of microphones",
+    "combined_context": "there are two men standing next to each other in front of microphones。这也没有你这么高的智床对。"
+  },
+  {
+    "scene_id": 6,
+    "start_time": 63.167,
+    "end_time": 64.833,
+    "duration": 1.667,
+    "asr_text": "",
+    "vision_caption": "there are two men that are standing next to each other in front of microphones",
+    "combined_context": "there are two men that are standing next to each other in front of microphones。"
+  },
+  {
+    "scene_id": 7,
+    "start_time": 64.833,
+    "end_time": 70.567,
+    "duration": 5.733,
+    "asr_text": "怎么说话呢您这是不是 那个词怎么说智商智商对了",
+    "vision_caption": "there are two men standing next to each other on a stage",
+    "combined_context": "there are two men standing next to each other on a stage。怎么说话呢您这是不是 那个词怎么说智商智商对了。"
+  },
+  {
+    "scene_id": 8,
+    "start_time": 70.567,
+    "end_time": 72.267,
+    "duration": 1.7,
+    "asr_text": "这个贼有毛病啊",
+    "vision_caption": "there are two men standing next to each other in front of microphones",
+    "combined_context": "there are two men standing next to each other in front of microphones。这个贼有毛病啊。"
+  },
+  {
+    "scene_id": 9,
+    "start_time": 72.267,
+    "end_time": 78.533,
+    "duration": 6.267,
+    "asr_text": "没有你这么高的智商哎呀没有没有我看你那么痛快是啊",
+    "vision_caption": "there are two men standing next to each other on a stage",
+    "combined_context": "there are two men standing next to each other on a stage。没有你这么高的智商哎呀没有没有我看你那么痛快是啊。"
+  },
+  {
+    "scene_id": 10,
+    "start_time": 78.533,
+    "end_time": 82.167,
+    "duration": 3.633,
+    "asr_text": "很难啊我请爷的我出不来",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。很难啊我请爷的我出不来。"
+  },
+  {
+    "scene_id": 11,
+    "start_time": 82.167,
+    "end_time": 96.067,
+    "duration": 13.9,
+    "asr_text": "怎么还出不来呀我这是跑出来的打哪儿跑出来的我打家里头跑出来的打家里头我惹祸了你们出去可别说呀我惹了祸了",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。怎么还出不来呀我这是跑出来的打哪儿跑出来的我打家里头跑出来的打家里头我惹祸了你们出去可别说呀我惹了祸了。"
+  },
+  {
+    "scene_id": 12,
+    "start_time": 96.067,
+    "end_time": 98.567,
+    "duration": 2.5,
+    "asr_text": "我跑出来了你不让人说",
+    "vision_caption": "there are two asian men shaking hands in front of microphones",
+    "combined_context": "there are two asian men shaking hands in front of microphones。我跑出来了你不让人说。"
+  },
+  {
+    "scene_id": 13,
+    "start_time": 98.567,
+    "end_time": 103.767,
+    "duration": 5.2,
+    "asr_text": "您都嚷不出去了何然你们千万可别出去穿去啊这都知道了",
+    "vision_caption": "there are two men standing next to each other on a stage",
+    "combined_context": "there are two men standing next to each other on a stage。您都嚷不出去了何然你们千万可别出去穿去啊这都知道了。"
+  },
+  {
+    "scene_id": 14,
+    "start_time": 103.767,
+    "end_time": 113.033,
+    "duration": 9.267,
+    "asr_text": "惹了祸了惹什么祸了这个话说来话长了怎么回事咱们那个村有一个特别高的行政长官谁呀村长",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。惹了祸了惹什么祸了这个话说来话长了怎么回事咱们那个村有一个特别高的行政长官谁呀村长。"
+  },
+  {
+    "scene_id": 15,
+    "start_time": 113.033,
+    "end_time": 118.833,
+    "duration": 5.8,
+    "asr_text": "那不叫行政长官这个人了不得怎么脾气大呀有脾气",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。那不叫行政长官这个人了不得怎么脾气大呀有脾气。"
+  },
+  {
+    "scene_id": 16,
+    "start_time": 118.833,
+    "end_time": 137.1,
+    "duration": 18.267,
+    "asr_text": "全村的省撒大圈他一个人治庄他全大一天到晚拧着没瞪着眼呢那个脾气实在是太大了是我给你举个例子吧您说家里那个小孩蹲在地上拉屎对拉完屎了村长喊狗来吃了喊三声狗不来自个儿趴那儿就吃了啊",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。全村的省撒大圈他一个人治庄他全大一天到晚拧着没瞪着眼呢那个脾气实在是太大了是我给你举个例子吧您说家里那个小孩蹲在地上拉屎对拉完屎了村长喊狗来吃了喊三声狗不来自个儿趴那儿就吃了啊。"
+  },
+  {
+    "scene_id": 17,
+    "start_time": 137.1,
+    "end_time": 138.567,
+    "duration": 1.467,
+    "asr_text": "",
+    "vision_caption": "there are many people that are sitting together in the audience",
+    "combined_context": "there are many people that are sitting together in the audience。"
+  },
+  {
+    "scene_id": 18,
+    "start_time": 138.567,
+    "end_time": 142.3,
+    "duration": 3.733,
+    "asr_text": "什么脾气呀这是那你要不要去啊就这么急",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。什么脾气呀这是那你要不要去啊就这么急。"
+  },
+  {
+    "scene_id": 19,
+    "start_time": 142.3,
+    "end_time": 164.433,
+    "duration": 22.133,
+    "asr_text": "脾气太大了哦啊咱们都怕他哦他这个人有个毛病啊有什么毛病他穿那个衬衣那个扣一直是急诊啊那是他从来没看他解开过那是是那天晚上村子里边开会哦村长副村长村支署哦妇女主任哦晚上他们坐在一块啊他们上开会打牌啊",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。脾气太大了哦啊咱们都怕他哦他这个人有个毛病啊有什么毛病他穿那个衬衣那个扣一直是急诊啊那是他从来没看他解开过那是是那天晚上村子里边开会哦村长副村长村支署哦妇女主任哦晚上他们坐在一块啊他们上开会打牌啊。"
+  },
+  {
+    "scene_id": 20,
+    "start_time": 164.433,
+    "end_time": 174.8,
+    "duration": 10.367,
+    "asr_text": "打牌呀我在旁边伺候排军那您就伺候着吧一会儿跟我敲出来村长这汗的滑滑的天热我说我今天解开把本把扣解开妈的娘呀怎么了",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。打牌呀我在旁边伺候排军那您就伺候着吧一会儿跟我敲出来村长这汗的滑滑的天热我说我今天解开把本把扣解开妈的娘呀怎么了。"
+  },
+  {
+    "scene_id": 21,
+    "start_time": 174.8,
+    "end_time": 179.7,
+    "duration": 4.9,
+    "asr_text": "我惹了祸了解一口惹什么祸呀他脖子上有块悬",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。我惹了祸了解一口惹什么祸呀他脖子上有块悬。"
+  },
+  {
+    "scene_id": 22,
+    "start_time": 179.7,
+    "end_time": 197.933,
+    "duration": 18.233,
+    "asr_text": "这赶快选哪我说他不敢揭开口呢怕人看见怕人知道我泄露了他这个机密了这也不叫祸他要杀我灭口怎么办呢不至于好在我有方法我们家想当初有了一种特异的功能什么呀有困难",
+    "vision_caption": "there are two men standing next to each other in front of microphones",
+    "combined_context": "there are two men standing next to each other in front of microphones。这赶快选哪我说他不敢揭开口呢怕人看见怕人知道我泄露了他这个机密了这也不叫祸他要杀我灭口怎么办呢不至于好在我有方法我们家想当初有了一种特异的功能什么呀有困难。"
+  },
+  {
+    "scene_id": 23,
+    "start_time": 197.933,
+    "end_time": 211.733,
+    "duration": 13.8,
+    "asr_text": "不太高 贴上之后能把这个悬板夹贴上就好了你也搭这儿粘起来贴信口这里这里就木油了这个悬就挪在这里了还能挪地",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。不太高 贴上之后能把这个悬板夹贴上就好了你也搭这儿粘起来贴信口这里这里就木油了这个悬就挪在这里了还能挪地。"
+  },
+  {
+    "scene_id": 24,
+    "start_time": 211.733,
+    "end_time": 219.467,
+    "duration": 7.733,
+    "asr_text": "你看我这给你挪了吧牙贴上粘下来搁在胳膊上吧放胳膊上也可以脖子上不油了对多好",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。你看我这给你挪了吧牙贴上粘下来搁在胳膊上吧放胳膊上也可以脖子上不油了对多好。"
+  },
+  {
+    "scene_id": 25,
+    "start_time": 219.467,
+    "end_time": 234.5,
+    "duration": 15.033,
+    "asr_text": "隔壁上出来了哦呀村长没得跟什么似的那高兴啊乐得鼻顶泡都出来了啊什么德行这是过了些日子天热嗯他得穿着个半袖的呦那又露出来了怎么办呢嗯我叭一下子给站着腿上来哎",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。隔壁上出来了哦呀村长没得跟什么似的那高兴啊乐得鼻顶泡都出来了啊什么德行这是过了些日子天热嗯他得穿着个半袖的呦那又露出来了怎么办呢嗯我叭一下子给站着腿上来哎。"
+  },
+  {
+    "scene_id": 26,
+    "start_time": 234.5,
+    "end_time": 249.0,
+    "duration": 14.5,
+    "asr_text": "这回穿裤子挡着看不见了过些日子该穿裤衩了又热了又露出来了我给它解起来我给你贴着屁股蛋子上面这下看不见了这下没问题了吧行了我又惹了祸了怎么还惹祸呀",
+    "vision_caption": "there are two men that are standing next to each other in front of microphones",
+    "combined_context": "there are two men that are standing next to each other in front of microphones。这回穿裤子挡着看不见了过些日子该穿裤衩了又热了又露出来了我给它解起来我给你贴着屁股蛋子上面这下看不见了这下没问题了吧行了我又惹了祸了怎么还惹祸呀。"
+  },
+  {
+    "scene_id": 27,
+    "start_time": 249.0,
+    "end_time": 261.4,
+    "duration": 12.4,
+    "asr_text": "南部村子里有一个妇女主任是个女的多新鲜呢有一天晚上妇女主任到南部村那个汪广棍那里去干嘛去两个人互相摸了一下",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。南部村子里有一个妇女主任是个女的多新鲜呢有一天晚上妇女主任到南部村那个汪广棍那里去干嘛去两个人互相摸了一下。"
+  },
+  {
+    "scene_id": 28,
+    "start_time": 261.4,
+    "end_time": 290.266,
+    "duration": 28.867,
+    "asr_text": "什么对方的情况对你不要想得这么歪你知道吗我想得歪呀您说明白了吗半夜一点了妇女主人出来回家走到村子口层蹦出一流氓来哟嘴里还说呢此山使我开此树使我宰要想从此过吞下裤子来要裤子妇女主人呢是一个很正直的人就是啊两个人就撕不起来了打起来了嘛在那个漆黑的晚上",
+    "vision_caption": "there are two men standing next to each other in front of microphones",
+    "combined_context": "there are two men standing next to each other in front of microphones。什么对方的情况对你不要想得这么歪你知道吗我想得歪呀您说明白了吗半夜一点了妇女主人出来回家走到村子口层蹦出一流氓来哟嘴里还说呢此山使我开此树使我宰要想从此过吞下裤子来要裤子妇女主人呢是一个很正直的人就是啊两个人就撕不起来了打起来了嘛在那个漆黑的晚上。"
+  },
+  {
+    "scene_id": 29,
+    "start_time": 290.266,
+    "end_time": 296.4,
+    "duration": 6.133,
+    "asr_text": "婦女主任遇见了流氓对经过激烈的反抗是流氓被把个警惯哎啊",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。婦女主任遇见了流氓对经过激烈的反抗是流氓被把个警惯哎啊。"
+  },
+  {
+    "scene_id": 30,
+    "start_time": 296.4,
+    "end_time": 298.133,
+    "duration": 1.733,
+    "asr_text": "發了一毛",
+    "vision_caption": "there are many people sitting at a table with plates of food in front of them",
+    "combined_context": "there are many people sitting at a table with plates of food in front of them。發了一毛。"
+  },
+  {
+    "scene_id": 31,
+    "start_time": 298.133,
+    "end_time": 303.633,
+    "duration": 5.5,
+    "asr_text": "流氓一死不挂转身就跑复尼主任不干呢",
+    "vision_caption": "there are two men standing next to each other in front of microphones",
+    "combined_context": "there are two men standing next to each other in front of microphones。流氓一死不挂转身就跑复尼主任不干呢。"
+  },
+  {
+    "scene_id": 32,
+    "start_time": 303.633,
+    "end_time": 308.733,
+    "duration": 5.1,
+    "asr_text": "他是个很政治的人对你敢耍流氓我饶不了你",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。他是个很政治的人对你敢耍流氓我饶不了你。"
+  },
+  {
+    "scene_id": 33,
+    "start_time": 308.733,
+    "end_time": 310.1,
+    "duration": 1.367,
+    "asr_text": "",
+    "vision_caption": "there is a man that is standing on a stage in front of a microphone",
+    "combined_context": "there is a man that is standing on a stage in front of a microphone。"
+  },
+  {
+    "scene_id": 34,
+    "start_time": 310.1,
+    "end_time": 313.966,
+    "duration": 3.867,
+    "asr_text": "夹了夹了夹了没有啊没有",
+    "vision_caption": "there are many people sitting at a table with a red table cloth",
+    "combined_context": "there are many people sitting at a table with a red table cloth。夹了夹了夹了没有啊没有。"
+  },
+  {
+    "scene_id": 35,
+    "start_time": 313.966,
+    "end_time": 320.766,
+    "duration": 6.8,
+    "asr_text": "他要报复那个流氓有这么报复的吗把流氓吓掉是啊",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。他要报复那个流氓有这么报复的吗把流氓吓掉是啊。"
+  },
+  {
+    "scene_id": 36,
+    "start_time": 320.766,
+    "end_time": 327.066,
+    "duration": 6.3,
+    "asr_text": "全是都跑了哎好嘛也没看见脸没看见脸就看见屁股上有块悬",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。全是都跑了哎好嘛也没看见脸没看见脸就看见屁股上有块悬。"
+  },
+  {
+    "scene_id": 37,
+    "start_time": 327.066,
+    "end_time": 328.966,
+    "duration": 1.9,
+    "asr_text": "喲",
+    "vision_caption": "there are many people sitting at a table with a red table cloth",
+    "combined_context": "there are many people sitting at a table with a red table cloth。喲。"
+  },
+  {
+    "scene_id": 38,
+    "start_time": 328.966,
+    "end_time": 336.366,
+    "duration": 7.4,
+    "asr_text": "这个事就穿开了是啊劝词人都说是村长干的就他长这个吗",
+    "vision_caption": "there are two men standing next to each other with microphones",
+    "combined_context": "there are two men standing next to each other with microphones。这个事就穿开了是啊劝词人都说是村长干的就他长这个吗。"
+  },
+  {
+    "scene_id": 39,
+    "start_time": 336.366,
+    "end_time": 348.166,
+    "duration": 11.8,
+    "asr_text": "扶女主任那个老爷们不干你啊那是不干被村长叫到家里去了也不打你也不骂你怎么办有这么一盘子炒黄豆你不都吃了不干嘛村长拿起来刮着刮着全吃了",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。扶女主任那个老爷们不干你啊那是不干被村长叫到家里去了也不打你也不骂你怎么办有这么一盘子炒黄豆你不都吃了不干嘛村长拿起来刮着刮着全吃了。"
+  },
+  {
+    "scene_id": 40,
+    "start_time": 348.166,
+    "end_time": 353.466,
+    "duration": 5.3,
+    "asr_text": "他又弄过一大碗凉水了你喝了它吧喝水股东股东全喝了",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。他又弄过一大碗凉水了你喝了它吧喝水股东股东全喝了。"
+  },
+  {
+    "scene_id": 41,
+    "start_time": 353.466,
+    "end_time": 361.133,
+    "duration": 7.667,
+    "asr_text": "这一肚子炒黄豆就凉水啊把村长的命就要了怎么了头里走边身后边咚当咚当",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。这一肚子炒黄豆就凉水啊把村长的命就要了怎么了头里走边身后边咚当咚当。"
+  },
+  {
+    "scene_id": 42,
+    "start_time": 361.133,
+    "end_time": 362.266,
+    "duration": 1.133,
+    "asr_text": "",
+    "vision_caption": "there are many people that are sitting together in the audience",
+    "combined_context": "there are many people that are sitting together in the audience。"
+  },
+  {
+    "scene_id": 43,
+    "start_time": 362.266,
+    "end_time": 379.966,
+    "duration": 17.7,
+    "asr_text": "响声不绝于耳啊是啊好多人都纳闷了村长那是怎么的了村长说了人一上年纪就爱放屁过去一天一个都放麻烦现在一个屁顶过去五个屁稿盖屁水果味一个屁上五楼不费劲什么",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。响声不绝于耳啊是啊好多人都纳闷了村长那是怎么的了村长说了人一上年纪就爱放屁过去一天一个都放麻烦现在一个屁顶过去五个屁稿盖屁水果味一个屁上五楼不费劲什么。"
+  },
+  {
+    "scene_id": 44,
+    "start_time": 379.966,
+    "end_time": 383.133,
+    "duration": 3.167,
+    "asr_text": "亂七八糟的",
+    "vision_caption": "there are many people that are sitting together in the audience",
+    "combined_context": "there are many people that are sitting together in the audience。亂七八糟的。"
+  },
+  {
+    "scene_id": 45,
+    "start_time": 383.133,
+    "end_time": 393.866,
+    "duration": 10.733,
+    "asr_text": "是说屁的吗这个我惹了祸了您怎么又惹祸我要是不给他转移那块悬我能惹祸吗我这赖您回家跟我那个媳妇一说我这怎么办呢",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。是说屁的吗这个我惹了祸了您怎么又惹祸我要是不给他转移那块悬我能惹祸吗我这赖您回家跟我那个媳妇一说我这怎么办呢。"
+  },
+  {
+    "scene_id": 46,
+    "start_time": 393.866,
+    "end_time": 404.5,
+    "duration": 10.633,
+    "asr_text": "呵我媳妇啊这屯说我呀说你你这个你那个你那个你这个哎呀烦的我脑浆子都疼啊是乱你什么见过我那个媳妇没见过那个嘴不闲着",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。呵我媳妇啊这屯说我呀说你你这个你那个你那个你这个哎呀烦的我脑浆子都疼啊是乱你什么见过我那个媳妇没见过那个嘴不闲着。"
+  },
+  {
+    "scene_id": 47,
+    "start_time": 404.5,
+    "end_time": 410.166,
+    "duration": 5.667,
+    "asr_text": "哼 张着嘴刺着个牙唐唐唐唐光是他说啊哼 夏天时候就翻得过妹遮了",
+    "vision_caption": "there are two men standing next to each other in front of microphones",
+    "combined_context": "there are two men standing next to each other in front of microphones。哼 张着嘴刺着个牙唐唐唐唐光是他说啊哼 夏天时候就翻得过妹遮了。"
+  },
+  {
+    "scene_id": 48,
+    "start_time": 410.166,
+    "end_time": 418.133,
+    "duration": 7.967,
+    "asr_text": "我让你出去玩些日子去吧让他出去我给他钱我让他你上海边去玩去吧旅游去好 回来去我一瞧啊鸭都晒黑了",
+    "vision_caption": "there are two men standing next to each other in front of microphones",
+    "combined_context": "there are two men standing next to each other in front of microphones。我让你出去玩些日子去吧让他出去我给他钱我让他你上海边去玩去吧旅游去好 回来去我一瞧啊鸭都晒黑了。"
+  },
+  {
+    "scene_id": 49,
+    "start_time": 418.133,
+    "end_time": 422.666,
+    "duration": 4.533,
+    "asr_text": "一直没闲着就说呢吧",
+    "vision_caption": "there are two men standing next to each other in front of microphones",
+    "combined_context": "there are two men standing next to each other in front of microphones。一直没闲着就说呢吧。"
+  },
+  {
+    "scene_id": 50,
+    "start_time": 422.666,
+    "end_time": 425.766,
+    "duration": 3.1,
+    "asr_text": "一直仗着追来着是啊说得我恼",
+    "vision_caption": "there are many people sitting at a long table with plates of food on it",
+    "combined_context": "there are many people sitting at a long table with plates of food on it。一直仗着追来着是啊说得我恼。"
+  },
+  {
+    "scene_id": 51,
+    "start_time": 425.766,
+    "end_time": 430.833,
+    "duration": 5.067,
+    "asr_text": "老蒋子都疼了哎呀 老的疼我说你快出主意我怎么判你哎 蒋主",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。老蒋子都疼了哎呀 老的疼我说你快出主意我怎么判你哎 蒋主。"
+  },
+  {
+    "scene_id": 52,
+    "start_time": 430.833,
+    "end_time": 439.0,
+    "duration": 8.167,
+    "asr_text": "你多些日子吧你也走你上北京吧你上北京吧北京我有亲戚在北京谁啊我哥哥",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。你多些日子吧你也走你上北京吧你上北京吧北京我有亲戚在北京谁啊我哥哥。"
+  },
+  {
+    "scene_id": 53,
+    "start_time": 439.0,
+    "end_time": 445.9,
+    "duration": 6.9,
+    "asr_text": "你哥哥在北京刚出南门驾驶劳北京我爷爷在北京市公安局是压着压着",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。你哥哥在北京刚出南门驾驶劳北京我爷爷在北京市公安局是压着压着。"
+  },
+  {
+    "scene_id": 54,
+    "start_time": 445.9,
+    "end_time": 447.033,
+    "duration": 1.133,
+    "asr_text": "我都在",
+    "vision_caption": "there are many people sitting at a long table with plates of food on it",
+    "combined_context": "there are many people sitting at a long table with plates of food on it。我都在。"
+  },
+  {
+    "scene_id": 55,
+    "start_time": 447.033,
+    "end_time": 470.1,
+    "duration": 23.067,
+    "asr_text": "那工作不是压着吗他给警察们提供工作对了都看他去了我哥哥还在北京我在村子里头我说我去吧找他去带着钱拿着东西奔北京来到北京一瞧我那个地址找不着了这不白来了我上哪里找着去我着急就来这责案这吧",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。那工作不是压着吗他给警察们提供工作对了都看他去了我哥哥还在北京我在村子里头我说我去吧找他去带着钱拿着东西奔北京来到北京一瞧我那个地址找不着了这不白来了我上哪里找着去我着急就来这责案这吧。"
+  },
+  {
+    "scene_id": 56,
+    "start_time": 470.1,
+    "end_time": 480.533,
+    "duration": 10.433,
+    "asr_text": "先踏实先待两天慢慢着吧对走到北京街头上也看不完那娘啊怎么了这个大楼怎么那么高呢摩天大厦一二三四五六七",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。先踏实先待两天慢慢着吧对走到北京街头上也看不完那娘啊怎么了这个大楼怎么那么高呢摩天大厦一二三四五六七。"
+  },
+  {
+    "scene_id": 57,
+    "start_time": 480.533,
+    "end_time": 486.966,
+    "duration": 6.433,
+    "asr_text": "鼠层啊我正数着呢打那边来个小子等个自行吃是一脚趾子地上",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。鼠层啊我正数着呢打那边来个小子等个自行吃是一脚趾子地上。"
+  },
+  {
+    "scene_id": 58,
+    "start_time": 486.966,
+    "end_time": 496.1,
+    "duration": 9.133,
+    "asr_text": "干什么呢熟楼呢北京有规定什么规定不许熟楼哪有这规定熟楼发款",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。干什么呢熟楼呢北京有规定什么规定不许熟楼哪有这规定熟楼发款。"
+  },
+  {
+    "scene_id": 59,
+    "start_time": 496.1,
+    "end_time": 522.766,
+    "duration": 26.667,
+    "asr_text": "这个北京人太欺负人了输了会发款是怎么发粉一层楼发十块钱你输多少了输了八层了得发八十八十掏了八十块钱给他这个小子一眼在兜里面等着人都跑了那还不跑这是个缺心眼的玩意儿人家还缺心眼他是个笨蛋呢怎么笨了我都输到二十多层了我都输了八十块",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。这个北京人太欺负人了输了会发款是怎么发粉一层楼发十块钱你输多少了输了八层了得发八十八十掏了八十块钱给他这个小子一眼在兜里面等着人都跑了那还不跑这是个缺心眼的玩意儿人家还缺心眼他是个笨蛋呢怎么笨了我都输到二十多层了我都输了八十块。"
+  },
+  {
+    "scene_id": 60,
+    "start_time": 522.766,
+    "end_time": 526.233,
+    "duration": 3.467,
+    "asr_text": "哎呀 也没见过您这么笨的",
+    "vision_caption": "there are many people sitting at a table with cups and saucers",
+    "combined_context": "there are many people sitting at a table with cups and saucers。哎呀 也没见过您这么笨的。"
+  },
+  {
+    "scene_id": 61,
+    "start_time": 526.233,
+    "end_time": 534.4,
+    "duration": 8.167,
+    "asr_text": "我省了钱了还省钱了他揣钱的时候他口袋里掉出一张票来什么东西",
+    "vision_caption": "there are two men standing next to each other in front of microphones",
+    "combined_context": "there are two men standing next to each other in front of microphones。我省了钱了还省钱了他揣钱的时候他口袋里掉出一张票来什么东西。"
+  },
+  {
+    "scene_id": 62,
+    "start_time": 534.4,
+    "end_time": 540.933,
+    "duration": 6.533,
+    "asr_text": "夾起来一瞧什么什么文化宫活动中心",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。夾起来一瞧什么什么文化宫活动中心。"
+  },
+  {
+    "scene_id": 63,
+    "start_time": 540.933,
+    "end_time": 551.333,
+    "duration": 10.4,
+    "asr_text": "这个东西不错呀是是上面写着字呢叫铜票哦 铜票啊 铜票对我上那儿通通去吧通通去铜票吗铜票干什么都成",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。这个东西不错呀是是上面写着字呢叫铜票哦 铜票啊 铜票对我上那儿通通去吧通通去铜票吗铜票干什么都成。"
+  },
+  {
+    "scene_id": 64,
+    "start_time": 551.333,
+    "end_time": 567.033,
+    "duration": 15.7,
+    "asr_text": "俺这地址我找到呢坏这个大楼不错呀里面有吃的有玩的有聚场是我也没事干对我进去看看去吧玩一玩买不进来了一层是个游泳馆可以游泳人家这个大屋是家那么大都是水啊",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。俺这地址我找到呢坏这个大楼不错呀里面有吃的有玩的有聚场是我也没事干对我进去看看去吧玩一玩买不进来了一层是个游泳馆可以游泳人家这个大屋是家那么大都是水啊。"
+  },
+  {
+    "scene_id": 65,
+    "start_time": 567.033,
+    "end_time": 571.0,
+    "duration": 3.967,
+    "asr_text": "好啊教练过来了下水哦游泳哦让您练",
+    "vision_caption": "there are two men standing next to each other in front of microphones",
+    "combined_context": "there are two men standing next to each other in front of microphones。好啊教练过来了下水哦游泳哦让您练。"
+  },
+  {
+    "scene_id": 66,
+    "start_time": 571.0,
+    "end_time": 573.0,
+    "duration": 2.0,
+    "asr_text": "我这么神 我不敢",
+    "vision_caption": "there are two men standing next to each other in front of microphones",
+    "combined_context": "there are two men standing next to each other in front of microphones。我这么神 我不敢。"
+  },
+  {
+    "scene_id": 67,
+    "start_time": 573.0,
+    "end_time": 586.933,
+    "duration": 13.933,
+    "asr_text": "我叫给你啊那没事了完了下去吧我下去他叫着我是一个小时是好玩真的是一个小时我上来了行了我说教练咱们今天就到这了累了实在喝不了了对",
+    "vision_caption": "there are two men standing next to each other in front of microphones",
+    "combined_context": "there are two men standing next to each other in front of microphones。我叫给你啊那没事了完了下去吧我下去他叫着我是一个小时是好玩真的是一个小时我上来了行了我说教练咱们今天就到这了累了实在喝不了了对。"
+  },
+  {
+    "scene_id": 68,
+    "start_time": 586.933,
+    "end_time": 588.5,
+    "duration": 1.567,
+    "asr_text": "喝水去了",
+    "vision_caption": "there are many people sitting at a long table with plates of food on it",
+    "combined_context": "there are many people sitting at a long table with plates of food on it。喝水去了。"
+  },
+  {
+    "scene_id": 69,
+    "start_time": 588.5,
+    "end_time": 595.433,
+    "duration": 6.933,
+    "asr_text": "实在是灌不下去了灌呢这是上二楼二楼一瞧啊有个小剧场剧场停",
+    "vision_caption": "there are two men standing next to each other in front of microphones",
+    "combined_context": "there are two men standing next to each other in front of microphones。实在是灌不下去了灌呢这是上二楼二楼一瞧啊有个小剧场剧场停。"
+  },
+  {
+    "scene_id": 70,
+    "start_time": 595.433,
+    "end_time": 622.433,
+    "duration": 27.0,
+    "asr_text": "进去了里边正演节目呢那您看节目我可爱看这个玩意儿呢那是好我做好了这台上出了个主持人对是个女的对拿着个话筒亲爱的观众朋友们大家好好欢迎您收看我们今天为您准备的文艺晚饭吃饭这个大家都知道黄河吧黄河黄河被称作母亲河对我们要像爱护母亲那样爱护黄河不错下面请欣赏长江之歌",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。进去了里边正演节目呢那您看节目我可爱看这个玩意儿呢那是好我做好了这台上出了个主持人对是个女的对拿着个话筒亲爱的观众朋友们大家好好欢迎您收看我们今天为您准备的文艺晚饭吃饭这个大家都知道黄河吧黄河黄河被称作母亲河对我们要像爱护母亲那样爱护黄河不错下面请欣赏长江之歌。"
+  },
+  {
+    "scene_id": 71,
+    "start_time": 622.433,
+    "end_time": 632.0,
+    "duration": 9.567,
+    "asr_text": "没黄河什么事想了想你说了半天跟这没关系呢就是你自个儿都闹不清楚我站起来我就出去了这甭看了",
+    "vision_caption": "there are two men standing next to each other in front of microphones",
+    "combined_context": "there are two men standing next to each other in front of microphones。没黄河什么事想了想你说了半天跟这没关系呢就是你自个儿都闹不清楚我站起来我就出去了这甭看了。"
+  },
+  {
+    "scene_id": 72,
+    "start_time": 632.0,
+    "end_time": 644.733,
+    "duration": 12.733,
+    "asr_text": "三楼三楼是三楼是那个研磨系的地方还有那个杂技对扔那个球好玩扔那个大岔子一会儿过会儿出了个大老虎那是驯兽啊出了个大姐这个漂亮啊穿着",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。三楼三楼是三楼是那个研磨系的地方还有那个杂技对扔那个球好玩扔那个大岔子一会儿过会儿出了个大老虎那是驯兽啊出了个大姐这个漂亮啊穿着。"
+  },
+  {
+    "scene_id": 73,
+    "start_time": 644.733,
+    "end_time": 650.333,
+    "duration": 5.6,
+    "asr_text": "听哨的跟这个打了活弯对一会儿这个女的还弄块糖搁在嘴里边",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。听哨的跟这个打了活弯对一会儿这个女的还弄块糖搁在嘴里边。"
+  },
+  {
+    "scene_id": 74,
+    "start_time": 650.333,
+    "end_time": 655.4,
+    "duration": 5.067,
+    "asr_text": "大老虎一掌嘴本把汤哥叫走了老虎这馆主还过掌呢",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。大老虎一掌嘴本把汤哥叫走了老虎这馆主还过掌呢。"
+  },
+  {
+    "scene_id": 75,
+    "start_time": 655.4,
+    "end_time": 659.3,
+    "duration": 3.9,
+    "asr_text": "这叫什么玩意儿这是怎么了这个就卖钱了",
+    "vision_caption": "there are two men standing next to each other on a stage",
+    "combined_context": "there are two men standing next to each other on a stage。这叫什么玩意儿这是怎么了这个就卖钱了。"
+  },
+  {
+    "scene_id": 76,
+    "start_time": 659.3,
+    "end_time": 660.8,
+    "duration": 1.5,
+    "asr_text": "我也喜欢这个",
+    "vision_caption": "there are two men standing next to each other on a stage",
+    "combined_context": "there are two men standing next to each other on a stage。我也喜欢这个。"
+  },
+  {
+    "scene_id": 77,
+    "start_time": 660.8,
+    "end_time": 663.233,
+    "duration": 2.433,
+    "asr_text": "你也行我也行啊那您来呀来呀",
+    "vision_caption": "there are two men standing next to each other in front of microphones",
+    "combined_context": "there are two men standing next to each other in front of microphones。你也行我也行啊那您来呀来呀。"
+  },
+  {
+    "scene_id": 78,
+    "start_time": 663.233,
+    "end_time": 665.666,
+    "duration": 2.433,
+    "asr_text": "会就来也会对把那个老虎抢走",
+    "vision_caption": "there are two men standing at a podium with microphones in front of them",
+    "combined_context": "there are two men standing at a podium with microphones in front of them。会就来也会对把那个老虎抢走。"
+  },
+  {
+    "scene_id": 79,
+    "start_time": 665.666,
+    "end_time": 668.0,
+    "duration": 2.333,
+    "asr_text": "蛤?",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。蛤?。"
+  },
+  {
+    "scene_id": 80,
+    "start_time": 668.0,
+    "end_time": 670.033,
+    "duration": 2.033,
+    "asr_text": "跟那女的我也行知道吗",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。跟那女的我也行知道吗。"
+  },
+  {
+    "scene_id": 81,
+    "start_time": 670.033,
+    "end_time": 672.666,
+    "duration": 2.633,
+    "asr_text": "我先说的 我先说的",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。我先说的 我先说的。"
+  },
+  {
+    "scene_id": 82,
+    "start_time": 672.666,
+    "end_time": 674.366,
+    "duration": 1.7,
+    "asr_text": "就什么你先来",
+    "vision_caption": "there are many people sitting at a long table with plates of food on it",
+    "combined_context": "there are many people sitting at a long table with plates of food on it。就什么你先来。"
+  },
+  {
+    "scene_id": 83,
+    "start_time": 674.366,
+    "end_time": 686.166,
+    "duration": 11.8,
+    "asr_text": "谁跟你排队了你排的我后头没有没什么意思我出来了四楼是饭馆那吃饭的地方携着韩国料理好一块大白菜辣白菜是",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。谁跟你排队了你排的我后头没有没什么意思我出来了四楼是饭馆那吃饭的地方携着韩国料理好一块大白菜辣白菜是。"
+  },
+  {
+    "scene_id": 84,
+    "start_time": 686.166,
+    "end_time": 694.7,
+    "duration": 8.533,
+    "asr_text": "白菜50多块钱一盆那个贵我心里说我不能进去怎么韩国料理这么贵我非得让韩国人把我料理都不可以",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。白菜50多块钱一盆那个贵我心里说我不能进去怎么韩国料理这么贵我非得让韩国人把我料理都不可以。"
+  },
+  {
+    "scene_id": 85,
+    "start_time": 694.7,
+    "end_time": 695.933,
+    "duration": 1.233,
+    "asr_text": "不是那么讲",
+    "vision_caption": "there are two men standing next to each other on a stage",
+    "combined_context": "there are two men standing next to each other on a stage。不是那么讲。"
+  },
+  {
+    "scene_id": 86,
+    "start_time": 695.933,
+    "end_time": 712.899,
+    "duration": 16.967,
+    "asr_text": "什么意思呀甭吃了出来吧走到大街上又打嘴棍瞧见我哥哥了又碰上了踏步天蝎五米处得来全不菲功夫还得瞧劲哥哥推着个小自行车就过来了骑车来的哥我在这呢过来过来叫你我哥赶紧推着车",
+    "vision_caption": "there are two men that are standing in front of a microphone",
+    "combined_context": "there are two men that are standing in front of a microphone。什么意思呀甭吃了出来吧走到大街上又打嘴棍瞧见我哥哥了又碰上了踏步天蝎五米处得来全不菲功夫还得瞧劲哥哥推着个小自行车就过来了骑车来的哥我在这呢过来过来叫你我哥赶紧推着车。"
+  },
+  {
+    "scene_id": 87,
+    "start_time": 712.899,
+    "end_time": 714.999,
+    "duration": 2.1,
+    "asr_text": "过来了兄弟你怎么来了",
+    "vision_caption": "there are two men standing on a stage in front of a banner",
+    "combined_context": "there are two men standing on a stage in front of a banner。过来了兄弟你怎么来了。"
+  },
+  {
+    "scene_id": 88,
+    "start_time": 714.999,
+    "end_time": 727.633,
+    "duration": 12.633,
+    "asr_text": "我说我找你来了嗯你怎么有车不骑你对啊你怎么退着是变怯了啊今天啊我这出来就已经打顶风了哦我这个车过了小二零的二零我腿又短我玩命的往前倒啊",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。我说我找你来了嗯你怎么有车不骑你对啊你怎么退着是变怯了啊今天啊我这出来就已经打顶风了哦我这个车过了小二零的二零我腿又短我玩命的往前倒啊。"
+  },
+  {
+    "scene_id": 89,
+    "start_time": 727.633,
+    "end_time": 736.566,
+    "duration": 8.933,
+    "asr_text": "前面有一人骑车在我头里边骑着骑着他把身子嵌起来了干嘛呀顺着身体的中后偏下不",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。前面有一人骑车在我头里边骑着骑着他把身子嵌起来了干嘛呀顺着身体的中后偏下不。"
+  },
+  {
+    "scene_id": 90,
+    "start_time": 736.566,
+    "end_time": 741.099,
+    "duration": 4.533,
+    "asr_text": "这个大顶风啊全给了我了是啊",
+    "vision_caption": "there are two men standing next to each other in front of microphones",
+    "combined_context": "there are two men standing next to each other in front of microphones。这个大顶风啊全给了我了是啊。"
+  },
+  {
+    "scene_id": 91,
+    "start_time": 741.099,
+    "end_time": 742.599,
+    "duration": 1.5,
+    "asr_text": "你也想",
+    "vision_caption": "there is a group of people that are sitting together in a crowd",
+    "combined_context": "there is a group of people that are sitting together in a crowd。你也想。"
+  },
+  {
+    "scene_id": 92,
+    "start_time": 742.599,
+    "end_time": 754.033,
+    "duration": 11.433,
+    "asr_text": "我这咕噜小啊等车费劲呢我还长嘴喘大气哎呀一点没遭见恨死我了恨死我了我要报",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。我这咕噜小啊等车费劲呢我还长嘴喘大气哎呀一点没遭见恨死我了恨死我了我要报。"
+  },
+  {
+    "scene_id": 93,
+    "start_time": 754.033,
+    "end_time": 762.366,
+    "duration": 8.333,
+    "asr_text": "这怎么报复他我玩了命的等啊追他我等他偷了去我也一签事我也使劲放一屁我老哭了",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。这怎么报复他我玩了命的等啊追他我等他偷了去我也一签事我也使劲放一屁我老哭了。"
+  },
+  {
+    "scene_id": 94,
+    "start_time": 762.366,
+    "end_time": 764.466,
+    "duration": 2.1,
+    "asr_text": "",
+    "vision_caption": "there are two men sitting at a table with a bunch of flowers in front of them",
+    "combined_context": "there are two men sitting at a table with a bunch of flowers in front of them。"
+  },
+  {
+    "scene_id": 95,
+    "start_time": 764.466,
+    "end_time": 765.833,
+    "duration": 1.367,
+    "asr_text": "您这是报复",
+    "vision_caption": "there are many people that are sitting at a table together",
+    "combined_context": "there are many people that are sitting at a table together。您这是报复。"
+  },
+  {
+    "scene_id": 96,
+    "start_time": 765.833,
+    "end_time": 770.166,
+    "duration": 4.333,
+    "asr_text": "干嘛这 这不是找事吗",
+    "vision_caption": "there are two men that are standing next to each other on a stage",
+    "combined_context": "there are two men that are standing next to each other on a stage。干嘛这 这不是找事吗。"
+  },
+  {
+    "scene_id": 97,
+    "start_time": 770.166,
+    "end_time": 775.733,
+    "duration": 5.567,
+    "asr_text": "开始我骑着大梁我后来实在坐不住了我就推着车走 兄弟",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。开始我骑着大梁我后来实在坐不住了我就推着车走 兄弟。"
+  },
+  {
+    "scene_id": 98,
+    "start_time": 775.733,
+    "end_time": 801.233,
+    "duration": 25.5,
+    "asr_text": "你看看这是改招啊我这不碰见你了吗走呗兄弟跟哥哥洗澡去吧是的洗澡好洗澡去洗澡去拐个弯去有个洗浴中心这好啊来这里边被扯个好嘞人家很客气是吗一扶我来先生这边请让进来给我哥哥更客气是你也出去你站在院里边站在院里边给我拖着那水管子刺个",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。你看看这是改招啊我这不碰见你了吗走呗兄弟跟哥哥洗澡去吧是的洗澡好洗澡去洗澡去拐个弯去有个洗浴中心这好啊来这里边被扯个好嘞人家很客气是吗一扶我来先生这边请让进来给我哥哥更客气是你也出去你站在院里边站在院里边给我拖着那水管子刺个。"
+  },
+  {
+    "scene_id": 99,
+    "start_time": 801.233,
+    "end_time": 802.999,
+    "duration": 1.767,
+    "asr_text": "人家也先葬啊",
+    "vision_caption": "there are two men standing next to each other on a stage",
+    "combined_context": "there are two men standing next to each other on a stage。人家也先葬啊。"
+  },
+  {
+    "scene_id": 100,
+    "start_time": 802.999,
+    "end_time": 809.399,
+    "duration": 6.4,
+    "asr_text": "我从干净给领进来的我来这里边把衣绳脱了把裤子拴在凳子腿上哎 你拴它干嘛呀",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。我从干净给领进来的我来这里边把衣绳脱了把裤子拴在凳子腿上哎 你拴它干嘛呀。"
+  },
+  {
+    "scene_id": 101,
+    "start_time": 809.399,
+    "end_time": 814.233,
+    "duration": 4.833,
+    "asr_text": "这还丢不了谁说的我在村子里面洗澡还丢了呢",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。这还丢不了谁说的我在村子里面洗澡还丢了呢。"
+  },
+  {
+    "scene_id": 102,
+    "start_time": 814.233,
+    "end_time": 847.399,
+    "duration": 33.167,
+    "asr_text": "村里洗澡在哪洗我在坑边上洗的是啊坑边上不是没人吗没人还丢了那么些人你是谁偷你裤子的呢没人偷你裤子都弄好了回去看着乐了你别那样啊你搁巷子里呢对我你管着吗丢了怎么办呢还丢了我保着你你保着我呀谁保着你啊你洗澡还连环保买不来的里边一瞧我那娘呀怎么了到了印件了什么印件印钞地府怎么那个大赤子冒着白气买着压呢哦",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。村里洗澡在哪洗我在坑边上洗的是啊坑边上不是没人吗没人还丢了那么些人你是谁偷你裤子的呢没人偷你裤子都弄好了回去看着乐了你别那样啊你搁巷子里呢对我你管着吗丢了怎么办呢还丢了我保着你你保着我呀谁保着你啊你洗澡还连环保买不来的里边一瞧我那娘呀怎么了到了印件了什么印件印钞地府怎么那个大赤子冒着白气买着压呢哦。"
+  },
+  {
+    "scene_id": 103,
+    "start_time": 847.399,
+    "end_time": 855.699,
+    "duration": 8.3,
+    "asr_text": "好闲给里边都弄烘了那是个优过呀是有个老头做的吃的还寒呢我受不了了受不了你上来你",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。好闲给里边都弄烘了那是个优过呀是有个老头做的吃的还寒呢我受不了了受不了你上来你。"
+  },
+  {
+    "scene_id": 104,
+    "start_time": 855.699,
+    "end_time": 857.266,
+    "duration": 1.567,
+    "asr_text": "人家是",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。人家是。"
+  },
+  {
+    "scene_id": 105,
+    "start_time": 857.266,
+    "end_time": 860.499,
+    "duration": 3.233,
+    "asr_text": "你还说问你啊没了嘛",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。你还说问你啊没了嘛。"
+  },
+  {
+    "scene_id": 106,
+    "start_time": 860.499,
+    "end_time": 864.599,
+    "duration": 4.1,
+    "asr_text": "有个挑凳小鬼们被人打上来搁那拔屁呢",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。有个挑凳小鬼们被人打上来搁那拔屁呢。"
+  },
+  {
+    "scene_id": 107,
+    "start_time": 864.599,
+    "end_time": 865.766,
+    "duration": 1.167,
+    "asr_text": "你们不会的",
+    "vision_caption": "there is a large group of people that are standing together",
+    "combined_context": "there is a large group of people that are standing together。你们不会的。"
+  },
+  {
+    "scene_id": 108,
+    "start_time": 865.766,
+    "end_time": 884.633,
+    "duration": 18.867,
+    "asr_text": "那是洗澡那是搓澡的他身上都红了我一想我来了我谁也不怕呀站在池子边上我扎个蒙子吧我我在坑里边我净扎蒙子了我这地方不行我站好了我蹭我就下去了我上了当了小鸭子目击水脑瓜子磕个大嘎的对",
+    "vision_caption": "there are two men that are standing in front of a microphone",
+    "combined_context": "there are two men that are standing in front of a microphone。那是洗澡那是搓澡的他身上都红了我一想我来了我谁也不怕呀站在池子边上我扎个蒙子吧我我在坑里边我净扎蒙子了我这地方不行我站好了我蹭我就下去了我上了当了小鸭子目击水脑瓜子磕个大嘎的对。"
+  },
+  {
+    "scene_id": 109,
+    "start_time": 884.633,
+    "end_time": 886.366,
+    "duration": 1.733,
+    "asr_text": "誰讓你跟這兒搭臉",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。誰讓你跟這兒搭臉。"
+  },
+  {
+    "scene_id": 110,
+    "start_time": 886.366,
+    "end_time": 889.699,
+    "duration": 3.333,
+    "asr_text": "不像扣鼠的破爱臭脚丫子味儿的还想脏劲儿",
+    "vision_caption": "there are two men standing next to each other in front of microphones",
+    "combined_context": "there are two men standing next to each other in front of microphones。不像扣鼠的破爱臭脚丫子味儿的还想脏劲儿。"
+  },
+  {
+    "scene_id": 111,
+    "start_time": 889.699,
+    "end_time": 894.533,
+    "duration": 4.833,
+    "asr_text": "我一想这个水有鱼木有啊这里头我摸摸鱼吧没有我懂",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。我一想这个水有鱼木有啊这里头我摸摸鱼吧没有我懂。"
+  },
+  {
+    "scene_id": 112,
+    "start_time": 894.533,
+    "end_time": 898.899,
+    "duration": 4.367,
+    "asr_text": "一抹洗一抹抹了我去摸鱿鱼啊摸了一个王八竿子",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。一抹洗一抹抹了我去摸鱿鱼啊摸了一个王八竿子。"
+  },
+  {
+    "scene_id": 113,
+    "start_time": 898.899,
+    "end_time": 904.633,
+    "duration": 5.733,
+    "asr_text": "打王八蛋的还挺厉害的我正摸着前面站起来拔给我一嘴袜子",
+    "vision_caption": "there are two men that are standing in front of microphones",
+    "combined_context": "there are two men that are standing in front of microphones。打王八蛋的还挺厉害的我正摸着前面站起来拔给我一嘴袜子。"
+  },
+  {
+    "scene_id": 114,
+    "start_time": 904.633,
+    "end_time": 906.966,
+    "duration": 2.333,
+    "asr_text": "你这个小子不洗澡你摸摸屁股干什么呀",
+    "vision_caption": "there is a man that is standing in front of a microphone",
+    "combined_context": "there is a man that is standing in front of a microphone。你这个小子不洗澡你摸摸屁股干什么呀。"
+  },
+  {
+    "scene_id": 115,
+    "start_time": 906.966,
+    "end_time": 908.533,
+    "duration": 1.567,
+    "asr_text": "對啦",
+    "vision_caption": "there is a man and a woman standing on a stage in front of a banner",
+    "combined_context": "there is a man and a woman standing on a stage in front of a banner。對啦。"
+  },
+  {
+    "scene_id": 116,
+    "start_time": 908.533,
+    "end_time": 911.666,
+    "duration": 3.133,
+    "asr_text": "",
+    "vision_caption": "an image of a black screen with chinese writing on it",
+    "combined_context": "an image of a black screen with chinese writing on it。"
+  },
+  {
+    "scene_id": 117,
+    "start_time": 911.666,
+    "end_time": 927.566,
+    "duration": 15.9,
+    "asr_text": "",
+    "vision_caption": "there is an image of a black background with chinese writing on it",
+    "combined_context": "there is an image of a black background with chinese writing on it。"
+  }
+]
